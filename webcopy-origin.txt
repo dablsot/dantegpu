@@ -1,0 +1,180 @@
+Uri: https://dantegpu.vercel.app/
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://dantegpu.vercel.app/css/vendors/aos.css
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\css\vendors\aos.css
+Content Type: text/css
+
+Uri: https://dantegpu.vercel.app/css/vendors/swiper-bundle.min.css
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\css\vendors\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://dantegpu.vercel.app/images/akinci.jpg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\akinci.jpg
+Content Type: image/jpeg
+
+Uri: https://dantegpu.vercel.app/images/baturalp.jpg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\baturalp.jpg
+Content Type: image/jpeg
+
+Uri: https://dantegpu.vercel.app/images/carousel-icon-01.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\carousel-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/carousel-icon-02.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\carousel-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/carousel-icon-03.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\carousel-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/carousel-icon-04.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\carousel-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/carousel-icon-05.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\carousel-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-01.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-02.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-02.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/client-03.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-03.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/client-04.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-05.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-05.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/client-06.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-07.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-07.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/client-08.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-08.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-09.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-09.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-10.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-10.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-11.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-11.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-12.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-12.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-13.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-13.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-14.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-14.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-15.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-15.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-16.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-16.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-17.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-17.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/client-18.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\client-18.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/dpu-logo.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\dpu-logo.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/feature-image-01.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\feature-image-01.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/feature-image-02.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\feature-image-02.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/feature-image-03.png
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\feature-image-03.png
+Content Type: image/png
+
+Uri: https://dantegpu.vercel.app/images/glow-bottom.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\glow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/glow-top.svg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\glow-top.svg
+Content Type: image/svg+xml
+
+Uri: https://dantegpu.vercel.app/images/mehmet.jpeg
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\images\mehmet.jpeg
+Content Type: image/jpeg
+
+Uri: https://dantegpu.vercel.app/js/main.js
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://dantegpu.vercel.app/js/vendors/alpinejs.min.js
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\js\vendors\alpinejs.min.js
+Content Type: application/javascript
+
+Uri: https://dantegpu.vercel.app/js/vendors/aos.js
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\js\vendors\aos.js
+Content Type: application/javascript
+
+Uri: https://dantegpu.vercel.app/js/vendors/swiper-bundle.min.js
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\js\vendors\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://dantegpu.vercel.app/style.css
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=fallback
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\User\Desktop\сайт\dantegpu.vercel.app\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
